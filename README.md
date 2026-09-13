@@ -1,1 +1,6 @@
-# Cryptographic_Architecture_Report
+## Cryptography local git isolation patterns
+__pycache__/
+*.pyc
+.env
+*.pem
+*.key
